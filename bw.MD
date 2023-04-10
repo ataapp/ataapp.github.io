@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Interactive Breathwork 2"
+title: "Interactive Breathwork"
 permalink: /bw
 ---
 
