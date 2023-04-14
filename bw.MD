@@ -20,3 +20,6 @@ permalink: /bw
 
 <img style="max-width: 300px; border: 2px solid; border-radius:30px; margin: 10px" src="/assets/s3.png">
 <img style="max-width: 300px; border: 2px solid; border-radius:30px; margin: 10px" src="/assets/s4.png">
+
+Google Play and the Google Play logo are trademarks of Google LLC.
+App Store® and Apple logo® are trademarks of Apple Inc., registered in the U.S. and other countries and regions.
