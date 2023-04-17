@@ -4,7 +4,8 @@ title: "Interactive Breathwork"
 permalink: /bw
 ---
 
-# A free app for interactive breathing exercises.
+# Completely free app for interactive breathing exercises.
+# No Ads.
 # Choose from 30+ exercises: 
 # Relax, Rest, Relieve Anxiety, Sleep, Engergize, ...
 # Customize and create your own exercises.
