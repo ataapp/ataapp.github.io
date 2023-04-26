@@ -5,14 +5,32 @@ permalink: /bw
 ---
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XB92C88ZT2"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11055596245"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-XB92C88ZT2');
+  gtag('config', 'AW-11055596245');
 </script>
+
+<!-- Event snippet for Clicked Download IOS conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-11055596245/uq3jCI_FpJoYENWF3Jcp',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+
 
 # Completely free app for interactive breathing exercises.
 # No Ads.
@@ -21,7 +39,7 @@ permalink: /bw
 # Customize and create your own exercises.
 
 <div style="display: flex; align-items: center;">
-<a href="https://apps.apple.com/app/interactive-breathwork/id6447329686"> <img style="width: 164px" src="/assets/downloadAppStore.png"> </a>
+<a onclick="return gtag_report_conversion('https://apps.apple.com/app/interactive-breathwork/id6447329686');" href="https://apps.apple.com/app/interactive-breathwork/id6447329686"> <img style="width: 164px" src="/assets/downloadAppStore.png"> </a>
 <a href="https://play.google.com/store/apps/details?id=com.ata.activebt"> <img style="width: 210px" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"> </a>
 </div>
 
