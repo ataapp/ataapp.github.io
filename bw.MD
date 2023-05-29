@@ -9,6 +9,7 @@ permalink: /bw
 <a href="https://play.google.com/store/apps/details?id=com.ata.activebt"> <img style="width: 210px" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"> </a>
 </div>
 
+# English, Français, Español, Português, Türkçe, Deutsch, 한국어, 日本語, Tiếng Việt
 # Completely free app for interactive breathing exercises.
 # No Ads.
 # Choose from 30+ exercises: 
