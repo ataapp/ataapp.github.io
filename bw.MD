@@ -10,7 +10,7 @@ permalink: /bw
 </div>
 
 # English, Français, Español, Português, Türkçe, Deutsch, 한국어, 日本語, Tiếng Việt
-# Completely free app for interactive breathing exercises.
+# Free app for interactive breathing exercises.
 # No Ads.
 # Choose from 30+ exercises: 
 # Relax, Rest, Relieve Anxiety, Sleep, Engergize, ...
