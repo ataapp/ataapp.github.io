@@ -9,10 +9,11 @@ permalink: /light
 <a href="https://play.google.com/store/apps/details?id=com.ata.light"> <img style="width: 210px" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"> </a>
 </div>
 
-# • Reminders to get sunlight.
-# • Measure light with the included Light Meter.
-# • Log and track progress.
-# • Resources to learn more about sunlight benefits on mood, sleep, immune function, ...
+# 🌞 Reminders to get sunlight.
+# 📏 Measure light with the included Light Meter.
+# 📊 Log and track progress.
+
+> Sunlight provides benefits on mood, sleep, immune function, bone health, and more
 
 
 
