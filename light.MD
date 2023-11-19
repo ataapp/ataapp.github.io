@@ -4,16 +4,20 @@ title: "Light Reminder for health"
 permalink: /light
 ---
 
+> Sunlight provides benefits on mood, sleep, immune function, bone health, and more
+
+#
+
 <div style="display: flex; align-items: center;">
 <a href="https://apps.apple.com/us/app/open-breathwork-freely-breathe/id6470959179"> <img style="width: 164px" src="/assets/downloadAppStore.png"> </a>
 <a href="https://play.google.com/store/apps/details?id=com.ata.light"> <img style="width: 210px" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"> </a>
 </div>
 
 # 🌞 Reminders to get sunlight.
-# 📏 Measure light with the included Light Meter.
+# 📏 Measure light with Light Meter.
 # 📊 Log and track progress.
 
-> Sunlight provides benefits on mood, sleep, immune function, bone health, and more
+
 
 
 
