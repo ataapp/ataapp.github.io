@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Light Reminder for health"
+title: "Sunlight Reminder for health"
 permalink: /light
 ---
 
 > Sunlight provides benefits on mood, sleep, immune function, bone health, and more
 
-#
+<pre>
+
+</pre>
 
 <div style="display: flex; align-items: center;">
 <a href="https://apps.apple.com/us/app/open-breathwork-freely-breathe/id6470959179"> <img style="width: 164px" src="/assets/downloadAppStore.png"> </a>
